@@ -144,6 +144,7 @@ namespace WindowsFormLocadora
         {
             FormularioCliente form = new FormularioCliente();
             form.ShowDialog();
+
         }
     }
 }
